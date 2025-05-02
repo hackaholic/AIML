@@ -1,0 +1,33 @@
+Machine Learning
+├── Supervised Learning
+│   ├── Regression
+│   │   ├── Linear Regression
+│   │   ├── Polynomial Regression
+│   │   ├── Decision Tree Regression
+│   │   ├── Random Forest Regression
+│   │   └── Support Vector Regression (SVR)
+│   └── Classification
+│       ├── Logistic Regression
+│       ├── k-Nearest Neighbors (KNN)
+│       ├── Decision Tree
+│       ├── Random Forest
+│       ├── Support Vector Machine (SVM)
+│       └── Naive Bayes
+├── Unsupervised Learning
+│   └── Clustering
+│       ├── Partition-based
+│       │   └── K-Means
+│       ├── Density-based
+│       │   └── DBSCAN
+│       └── Hierarchical
+│           ├── Agglomerative (Bottom-up)
+│           └── Divisive (Top-down)
+└── Reinforcement Learning
+    ├── Agent
+    ├── Environment
+    ├── Reward System
+    └── Algorithms
+        ├── Q-Learning
+        ├── Deep Q-Network (DQN)
+        ├── SARSA
+        └── Policy Gradient Methods
